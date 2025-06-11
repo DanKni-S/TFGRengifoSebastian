@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93541695843",
+    "project_id": "basedatos-1729c",
+    "storage_bucket": "basedatos-1729c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93541695843:android:9a49c5116be14da5a61356",
+        "android_client_info": {
+          "package_name": "com.mycompany.proyecto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7dWaKL-vy-08zEoaynHtztTLcQU8z7Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
